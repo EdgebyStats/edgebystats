@@ -2,11 +2,12 @@ Hi, I'm Pankaj (@EdgeByStats) 👋
 I'm a quantitative trader building automated algorithmic trading infrastructure focused on passing FTMO and proprietary trading firm evaluations.
 
 🧠 Background
-🎓 MStat (Master of Statistics) from Indian Statistical Institute (ISI) Kolkata
-🎓 BS Mathematics from NIT Agartala
-📈 Focus: Statistical arbitrage, trend following, and rigorous risk management.
+- 🎓 MStat (Master of Statistics) from Indian Statistical Institute (ISI) Kolkata
+- 🎓 BS Mathematics from NIT Agartala
+- 📈 Focus: Statistical arbitrage, trend following, and rigorous risk management.
+
 🔧 Current Project: EdgeByStats Bot
-I am building a multi-broker, automated trading bot from scratch using:
+- I am building a multi-broker, automated trading bot from scratch using:
 
 cTrader Open API (Python/Twisted)
 Statistical strategies (Cointegration, Johansen test, Kalman filters)
