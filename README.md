@@ -12,10 +12,10 @@ I'm a quantitative trader building automated algorithmic trading infrastructure 
 
 - I am building a multi-broker, automated trading bot from scratch using:
 
-**cTrader Open API (Python/Twisted)**
-
-- Statistical strategies (Cointegration, Johansen test, Kalman filters)
-- Dynamic risk management (FTMO daily drawdown rules, position sizing)
+    **cTrader Open API (Python/Twisted)**
+    
+    - Statistical strategies (Cointegration, Johansen test, Kalman filters)
+    - Dynamic risk management (FTMO daily drawdown rules, position sizing)
 
 📊 **Live Stats**
 
