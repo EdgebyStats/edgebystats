@@ -26,3 +26,5 @@ I'm a quantitative trader building automated algorithmic trading infrastructure 
 📝 **Latest Articles**
 
 - Building a 6M Tick/Day cTrader Recorder in Python (And Killing a 750MB Memory Leak)
+
+## Updating the details.
