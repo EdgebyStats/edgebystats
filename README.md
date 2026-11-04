@@ -1,4 +1,4 @@
-Hi, I'm Pankaj (@EdgeByStats) 👋  
+Hi, I'm **Pankaj (@EdgeByStats)** 👋  
 
 I'm a quantitative trader building automated algorithmic trading infrastructure focused on passing FTMO and proprietary trading firm evaluations.
 
